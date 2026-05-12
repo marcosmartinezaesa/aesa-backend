@@ -1,0 +1,6 @@
+export enum RequestStatus {
+  PENDIENTE = 'PENDIENTE',
+  RECHAZADA = 'RECHAZADA',
+  AUTORIZADA = 'AUTORIZADA',
+  FINALIZADA = 'FINALIZADA',
+}

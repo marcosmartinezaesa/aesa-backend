@@ -1,0 +1,5 @@
+export enum RequestType {
+  NUEVO_FRIO_CALOR = 'NUEVO_FRIO_CALOR',
+  REPARADA = 'REPARADA',
+  RECAMBIO = 'RECAMBIO',
+}
